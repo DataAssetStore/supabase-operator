@@ -1,4 +1,4 @@
-# Week of July 1 [Sam,Cathy]
+# July 3 [Sam,Cathy]
 
 - setup poetry
 - make src/python/__main__.py run
