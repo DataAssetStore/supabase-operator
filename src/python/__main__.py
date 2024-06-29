@@ -1,7 +1,7 @@
 from . import *
 
 kw = {
-    
+    "instance-name": "test"
 }
 
 t1 = SupabaseTenant(**kw)
