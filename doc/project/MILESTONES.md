@@ -1,5 +1,8 @@
 # Week of July 1
 
+- setup poetry
+
 - make src/python/__main__.py run
   - setup k8s-pyobj import
-  - build a github CI package build and publish
+
+- build a github CI package build and publish
